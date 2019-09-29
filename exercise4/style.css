@@ -1,0 +1,7 @@
+div.mydi
+{
+    width:250px; 
+    max-width:250px;
+    display: inline-block;
+    border: thick solid black;
+}

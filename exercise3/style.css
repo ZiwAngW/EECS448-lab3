@@ -1,0 +1,119 @@
+body
+{
+    
+    background-image: url(giphy.gif);
+    background-size:55%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    
+}
+div.about
+{
+    background-color: azure;
+    float:left;
+    max-width: 200px;
+    overflow: hidden;
+    white-space: nowrap;
+    border-left:1em solid transparent;
+    border-right:1em solid transparent;
+    text-overflow: ellipsis;
+}
+div.about:hover
+{
+    background-color: beige;
+    float:left;
+    max-width: 200px;
+    overflow: hidden;
+    white-space: nowrap;
+    border-left:1em solid transparent;
+    border-right:1em solid transparent;
+    text-overflow: ellipsis;
+}
+h2.name
+{
+    text-align:center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+}
+p.fullname
+{
+    text-align: center;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+div.bio
+{
+    background-color: lavender;
+    max-width: 300px;
+    overflow: hidden;
+    white-space: nowrap;
+    border-left:1em solid transparent;
+    border-right:1em solid transparent;
+    white-space: normal;
+}
+div.bio:hover
+{
+    background-color: bisque;
+    max-width: 300px;
+    overflow: hidden;
+    white-space: nowrap;
+    border-left:1em solid transparent;
+    border-right:1em solid transparent;
+    white-space: normal;
+}
+h1.tittle
+{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
+    
+}
+div.link
+{
+    background-color: khaki;
+    max-width: 300px;
+    overflow: hidden;
+    white-space: nowrap;
+    border-left:1em solid transparent;
+    border-right:1em solid transparent;
+}
+div.link:hover
+{
+    background-color:blanchedalmond;
+    max-width: 300px;
+    overflow: hidden;
+    white-space: nowrap;
+    border-left:1em solid transparent;
+    border-right:1em solid transparent;
+}
+div.youtube
+{
+    background-color: blanchedalmond;
+    max-width: 420px;
+    overflow: hidden;
+    white-space: nowrap;
+    border-left:1em solid transparent;
+    border-right:1em solid transparent;
+}
+div.youtube:hover
+{
+    background-color:  lavender;
+    max-width: 420px;
+    overflow: hidden;
+    white-space: nowrap;
+    border-left:1em solid transparent;
+    border-right:1em solid transparent;
+}
+h1.web
+{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+iframe
+{
+    border: none;
+}
+h1.video
+{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
