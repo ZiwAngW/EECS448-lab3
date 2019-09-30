@@ -44,7 +44,7 @@ p.fullname
 div.bio
 {
     background-color: lavender;
-    max-width: 300px;
+    max-width: 420px;
     overflow: hidden;
     white-space: nowrap;
     border-left:1em solid transparent;
@@ -54,7 +54,7 @@ div.bio
 div.bio:hover
 {
     background-color: bisque;
-    max-width: 300px;
+    max-width: 420px;
     overflow: hidden;
     white-space: nowrap;
     border-left:1em solid transparent;
@@ -70,7 +70,7 @@ h1.tittle
 div.link
 {
     background-color: khaki;
-    max-width: 300px;
+    max-width: 420px;
     overflow: hidden;
     white-space: nowrap;
     border-left:1em solid transparent;
@@ -79,7 +79,7 @@ div.link
 div.link:hover
 {
     background-color:blanchedalmond;
-    max-width: 300px;
+    max-width: 420px;
     overflow: hidden;
     white-space: nowrap;
     border-left:1em solid transparent;
